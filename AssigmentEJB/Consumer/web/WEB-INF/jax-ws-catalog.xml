@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:43912/EJBBankAssignment-war/UserWebService?WSDL" uri="wsdl/localhost_43912/EJBBankAssignment-war/UserWebService.wsdl"/>
+    <system systemId="http://localhost:43912/EJBBankAssignment-war/UserWebService?xsd=1" uri="wsdl/localhost_43912/EJBBankAssignment-war/UserWebService.xsd_1.xsd"/>
+    <system systemId="http://localhost:43912/EJBBankAssignment-war/OrderWebService?WSDL" uri="wsdl/localhost_43912/EJBBankAssignment-war/OrderWebService.wsdl"/>
+    <system systemId="http://localhost:43912/EJBBankAssignment-war/OrderWebService?xsd=1" uri="wsdl/localhost_43912/EJBBankAssignment-war/OrderWebService.xsd_1.xsd"/>
+</catalog>
